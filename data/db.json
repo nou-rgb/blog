@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Bienvenu dans mon blog",
+      "body": "les poissons sont trop delicieux ",
+      "author": "steven",
+      "date": "15/01/2023"
+    },
+    {
+      "id": 2,
+      "title": "une affaire de technologies",
+      "body": "la technologie evolue de plus en plus ou l'on se demande si l'Homme ne sera pas devancer par ses creations",
+      "author": "georges",
+      "date": "15/01/2023"
+    },
+    {
+      "id": 3,
+      "title": "les developpeurs",
+      "body": "la technologie evolue de plus en plus ou l'on se demande si l'Homme ne sera pas devancer par ses creations",
+      "author": "georges",
+      "date": "15/01/2023"
+    },
+    {
+      "title": "La femme",
+      "author": "steven",
+      "body": "la femme est une creature merveilleuse a traiter avec respect",
+      "date": "2023-01-18 11:49:50.861Z",
+      "id": 5
+    },
+    {
+      "title": "homme ",
+      "author": "steven",
+      "body": "les hommes aiment se sentir respectes",
+      "date": "2023-01-18 12:03:49.915Z",
+      "id": 6
+    },
+    {
+      "title": "Snapchat",
+      "author": "steph",
+      "body": "Snapchat est une application qui aide les filles a avoir un meilleur aspect photo",
+      "date": "2023-01-18 12:09:22.608Z",
+      "id": 7
+    }
+  ]
+}
